@@ -58,7 +58,10 @@ This project analyzes a bank’s lending performance using SQL for data preparat
 
 
 ## 📄 SQL Queries
-All the SQL queries performed for data preparation and KPI calculations are documented here:  
+
+All SQL queries performed for data preparation and KPI calculations are documented here:  
+
+[PostgreSQL Queries Screenshots](SQL Queries/postgresql queries screenshots.docx)
 
 
 ## 🧩 Skills Learned
