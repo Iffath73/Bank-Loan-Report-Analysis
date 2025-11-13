@@ -5,8 +5,8 @@ This project analyzes a bank’s lending performance using SQL for data preparat
 
 ## 🛠 Tools & Technologies
 - **SQL (PostgreSQL):** Data cleaning, transformation, validation, and KPI calculations  
-- **Power BI (Desktop, June 2023 Version):** Dashboard creation, visualization, and KPI reporting  
-- **Excel (Office 2021):** Supplementary data validation and organization  
+- **Power BI (Desktop):** Dashboard creation, visualization, and KPI reporting  
+- **Excel:** Supplementary data validation and organization  
 
 ## ⚙️ Project Workflow
 
@@ -59,9 +59,10 @@ This project analyzes a bank’s lending performance using SQL for data preparat
 
 ## 📄 SQL Queries
 
-All SQL queries performed for data preparation and KPI calculations are documented here:  
+All SQL queries performed for data preparation and KPI calculations are documented here: 
 
-[PostgreSQL Queries Screenshots](SQL Queries/postgresql queries screenshots.docx)
+[PostgreSQL Queries Screenshots](SQL%20Queries/postgresql%20queries%20screenshots.docx)
+
 
 
 ## 🧩 Skills Learned
